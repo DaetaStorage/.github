@@ -58,7 +58,6 @@
   <a href="https://discord.gg/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/discordF.png" height="25" alt="discord logo"/></a>
   <a href="https://docs.daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/docsF.png" height="25" alt="docs logo"/></a>
   <a href="https://daeta.xyz/DaetaWPv1.0.pdf" target="_blank"><img src="https://daeta.xyz/github/whitepaperF.png" height="25" alt="whitepaper logo"/></a>
-  <a href="https://docs.daeta.xyz/tokenomics" target="_blank"><img src="https://daeta.xyz/github/tokenomicsF.png" height="25" alt="tokenomics logo"/></a>
   <a href="https://linktr.ee/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/linktreeF.png" height="25" alt="linktree logo"/></a>
 </div>
 
