@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img height="332" src="https://daeta.xyz/github/daetafooter.jpeg"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img height="500" src="https://daeta.xyz/github/daetafooter.jpeg"/></a>
 </div>
 
 ###
