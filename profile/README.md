@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/daetalvrg.png" height="40" alt="circleci logo"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/LVRGGitt.png" height="200" alt="circleci logo"/></a>
 </div>
 
 ###
