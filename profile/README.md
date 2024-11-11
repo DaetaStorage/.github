@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/storage.png" height="40" alt="docker logo"/></a> 
+  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/daetastorage.png" height="40" alt="docker logo"/></a> 
 </div>
 
 ###
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/LVRGAA.png" height="40" alt="circleci logo"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/daetalvrg.png" height="40" alt="circleci logo"/></a>
 </div>
 
 ###
