@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img height="40" src="https://daeta.xyz/github/DaetaTop.png"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img height="40" src="https://github.com/DaetaStorage/.github/blob/main/images/DaetaTop.png"/></a>
 </div>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/DaetaLVRGANew.png" height="40" alt="docker logo"/></a> 
+  <a href="https://daeta.xyz" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/DaetaLVRGANew.png" height="40" alt="docker logo"/></a> 
 </div>
 
 ###
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/DaetaStorageNew.png" height="40" alt="circleci logo"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/DaetaStorageNew.png" height="40" alt="circleci logo"/></a>
 </div>
 
 ###
@@ -51,14 +51,14 @@
 ###
 
 <div align="center">
-  <a href="https://daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/websiteF.png" height="25" alt="website logo"/></a>
-  <a href="https://x.com/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/twitterF.png" height="25" alt="twitter logo"/></a>
-  <a href="https://daetastorage.medium.com" target="_blank"><img src="https://daeta.xyz/github/mediumF.png" height="25" alt="medium logo"/></a>
-  <a href="https://t.me/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/telegramF.png" height="25" alt="telegram logo"/></a>
-  <a href="https://discord.gg/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/discordF.png" height="25" alt="discord logo"/></a>
-  <a href="https://docs.daeta.xyz" target="_blank"><img src="https://daeta.xyz/github/docsF.png" height="25" alt="docs logo"/></a>
-  <a href="https://daeta.xyz/DaetaWPv1.0.pdf" target="_blank"><img src="https://daeta.xyz/github/whitepaperF.png" height="25" alt="whitepaper logo"/></a>
-  <a href="https://linktr.ee/DaetaStorage" target="_blank"><img src="https://daeta.xyz/github/linktreeF.png" height="25" alt="linktree logo"/></a>
+  <a href="https://daeta.xyz" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/websiteF.png" height="25" alt="website logo"/></a>
+  <a href="https://x.com/DaetaStorage" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/twitterF.png" height="25" alt="twitter logo"/></a>
+  <a href="https://daetastorage.medium.com" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/mediumF.png" height="25" alt="medium logo"/></a>
+  <a href="https://t.me/DaetaStorage" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/telegramF.png" height="25" alt="telegram logo"/></a>
+  <a href="https://discord.gg/DaetaStorage" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/discordF.png" height="25" alt="discord logo"/></a>
+  <a href="https://docs.daeta.xyz" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/docsF.png" height="25" alt="docs logo"/></a>
+  <a href="https://daeta.xyz/DaetaWPv1.0.pdf" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/whitepaperF.png" height="25" alt="whitepaper logo"/></a>
+  <a href="https://linktr.ee/DaetaStorage" target="_blank"><img src="https://github.com/DaetaStorage/.github/blob/main/images/linktreeF.png" height="25" alt="linktree logo"/></a>
 </div>
 
 ###
